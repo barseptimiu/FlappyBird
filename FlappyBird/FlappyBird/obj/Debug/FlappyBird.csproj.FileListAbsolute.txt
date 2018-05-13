@@ -1,0 +1,21 @@
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\barse\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+D:\New folder\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\New folder\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\New folder\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\New folder\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\New folder\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\New folder\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+D:\New folder\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+D:\New folder\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\New folder\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+D:\UVT\AN 1\Sem 2\Practice Stage\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\UVT\AN 1\Sem 2\Practice Stage\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\UVT\AN 1\Sem 2\Practice Stage\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
